@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 26,
+        "description": "Makes nether coordinates 1:1 with the overworld"
+    }
+}
